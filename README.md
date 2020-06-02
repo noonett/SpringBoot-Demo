@@ -9,4 +9,4 @@ Build an simple interaction demo of Controller, Service and Dao to understand IO
 - Spring Bean: @Configuration, @Bean, 
 @Component, @Controller, @Repository, @Service
 @PostConstruct, @PreDestroy, @Primary
-IOC: @Autowired, @Qualifier
+- IOC: @Autowired, @Qualifier
