@@ -1,7 +1,7 @@
 # SpringBoot-Demo
 This repository memorize the path which I learn springboot building web application. 
 
-### QuickStart demo
+### 1.QuickStart demo
 Build an simple interaction demo of Controller, Service and Dao to understand IOC and AOC.
 #### New annotations:
 - Startup
