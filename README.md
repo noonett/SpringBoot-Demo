@@ -20,3 +20,9 @@ Build an simple demo of MVC in controller to deal with requests.
 @RequestMapping(path = "", method = "")
 - Response:
 @ResponseBody
+
+### 3. Dao demo
+Demo of MyBatis include configuration of Mapper interface, creating entity class and test CURD.
+Using MyBatis, we don't need to implement the interface. The only three things we have to do are creating a class as entity in mysql. And a mapper interface telling MyBatis what we want to do. And use a .xml file tell MyBatis the relationship of sql query and the methods, classes.
+#### New annotations
+- interface: @Mapper, @Repository
