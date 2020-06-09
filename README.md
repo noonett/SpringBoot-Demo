@@ -33,3 +33,6 @@ Create a homecontroller using two service to deal with request from homepage. Cr
 
 ### 5. Logger demo
 Demo of using Logger-back structure to log the running time message. We can use LoggerFactory to create a Logger to create logs and use <logback-spring.xml> to config the where we store the logs and how to collect the logs and more details of logs. We can set the level of logs and according to the level collect them in different path. We can check if there are some exception by reading the logs or set stoppoint on IDE or Browser.
+
+### 6. Login demo
+Demo of user login. The login function include homepage of login, dealing with login information and activation.
