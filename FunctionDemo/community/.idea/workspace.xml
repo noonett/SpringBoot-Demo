@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1cc80f9-f098-478f-80eb-71ed516d6306" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ckiLQuZFx29YVqebnmJ0cXUZcf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CommunityApplication">
+    <configuration name="MailTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nowcoder.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nowcoder.community" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.community.MailTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailTests.testHtmlMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nowcoder.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nowcoder.community" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.community.MailTests" />
+      <option name="METHOD_NAME" value="testHtmlMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailTests.testTextMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nowcoder.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nowcoder.community" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.community.MailTests" />
+      <option name="METHOD_NAME" value="testTextMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTests.testInsertLoginTicket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nowcoder.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nowcoder.community" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.community.MapperTests" />
+      <option name="METHOD_NAME" value="testInsertLoginTicket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTests.testSelectLoginTicket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="community" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nowcoder.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nowcoder.community" />
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.community.MapperTests" />
+      <option name="METHOD_NAME" value="testSelectLoginTicket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommunityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="community" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nowcoder.community.CommunityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MapperTests.testSelectLoginTicket" />
+        <item itemvalue="JUnit.MapperTests.testInsertLoginTicket" />
+        <item itemvalue="JUnit.MailTests.testHtmlMail" />
+        <item itemvalue="JUnit.MailTests" />
+        <item itemvalue="JUnit.MailTests.testTextMail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1cc80f9-f098-478f-80eb-71ed516d6306" name="Default Changelist" comment="" />
+      <created>1591078935831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591078935831</updated>
+      <workItem from="1591078938405" duration="1728000" />
+      <workItem from="1591083859814" duration="46171000" />
+      <workItem from="1591593296713" duration="26194000" />
+      <workItem from="1591721114549" duration="7636000" />
+      <workItem from="1591843567389" duration="139000" />
+      <workItem from="1591860844156" duration="16903000" />
+      <workItem from="1591970039420" duration="1996000" />
+    </task>
+    <task id="LOCAL-00001" summary="开发注册功能">
+      <created>1591699533686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591699533687</updated>
+    </task>
+    <task id="LOCAL-00002" summary="使用kaptcha实现验证码功能">
+      <created>1591720758974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591720758974</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1. 添加过滤器：通过Cookie获取用户信息、未登录用户无法访问部分页面。&#10;2. 添加用户信息修改功能：头像、密码。&#10;3. 添加忘记密码功能。">
+      <created>1591971214582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591971214582</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="开发注册功能" />
+    <MESSAGE value="使用kaptcha实现验证码功能" />
+    <MESSAGE value="1. 添加过滤器：通过Cookie获取用户信息、未登录用户无法访问部分页面。&#10;2. 添加用户信息修改功能：头像、密码。&#10;3. 添加忘记密码功能。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. 添加过滤器：通过Cookie获取用户信息、未登录用户无法访问部分页面。&#10;2. 添加用户信息修改功能：头像、密码。&#10;3. 添加忘记密码功能。" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="281" key="#Notifications" timestamp="1591721133922">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="517" y="281" key="#Notifications/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591721133922" />
+    <state x="240" y="59" key="#Plugins" timestamp="1591868176128">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="59" key="#Plugins/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591868176128" />
+    <state x="128" y="23" key="#Project_Structure" timestamp="1591084207141">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="128" y="23" key="#Project_Structure/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591084207141" />
+    <state x="418" y="296" key="#Tomcat_Server" timestamp="1591108136928">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="418" y="296" key="#Tomcat_Server/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591108136928" />
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591108137962">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591108137962" />
+    <state x="453" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1591958678701">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="453" y="125" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591958678701" />
+    <state x="1606" y="23" key="CommitChangelistDialog2" timestamp="1591971214210">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="217" y="23" key="CommitChangelistDialog2/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591960685404" />
+    <state x="1606" y="23" key="CommitChangelistDialog2/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591971214210" />
+    <state x="217" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1591699533045" />
+    <state x="1487" y="126" key="DiffContextDialog" timestamp="1591970995785">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1487" y="126" key="DiffContextDialog/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970995785" />
+    <state x="505" y="315" key="Github.ShareDialog" timestamp="1591261566158">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="505" y="315" key="Github.ShareDialog/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591261566158" />
+    <state x="435" y="123" key="Github.UntrackedFilesDialog" timestamp="1591261577496">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="435" y="123" key="Github.UntrackedFilesDialog/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591261577496" />
+    <state width="1238" height="126" key="GridCell.Tab.0.bottom" timestamp="1591972146123">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591699320878" />
+    <state width="1238" height="126" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146123" />
+    <state width="1878" height="334" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970892335" />
+    <state width="1238" height="162" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1591707773563" />
+    <state width="1238" height="126" key="GridCell.Tab.0.center" timestamp="1591972146122">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591699320875" />
+    <state width="1238" height="126" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146122" />
+    <state width="1878" height="334" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970892334" />
+    <state width="1238" height="162" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1591707773562" />
+    <state width="1238" height="126" key="GridCell.Tab.0.left" timestamp="1591972146121">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591699320872" />
+    <state width="1238" height="126" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146121" />
+    <state width="1878" height="334" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970892333" />
+    <state width="1238" height="162" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1591707773560" />
+    <state width="1238" height="126" key="GridCell.Tab.0.right" timestamp="1591972146123">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591699320876" />
+    <state width="1238" height="126" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146123" />
+    <state width="1878" height="334" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970892334" />
+    <state width="1238" height="162" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1591707773562" />
+    <state width="1238" height="126" key="GridCell.Tab.1.bottom" timestamp="1591972146124">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591699320500" />
+    <state width="1238" height="126" key="GridCell.Tab.1.bottom/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146124" />
+    <state width="1878" height="334" key="GridCell.Tab.1.bottom/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970891912" />
+    <state width="1238" height="162" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1591707773565" />
+    <state width="1238" height="126" key="GridCell.Tab.1.center" timestamp="1591972146124">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1591699320496" />
+    <state width="1238" height="126" key="GridCell.Tab.1.center/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146124" />
+    <state width="1878" height="334" key="GridCell.Tab.1.center/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970891911" />
+    <state width="1238" height="162" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1591707773564" />
+    <state width="1238" height="126" key="GridCell.Tab.1.left" timestamp="1591972146123">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1591699320495" />
+    <state width="1238" height="126" key="GridCell.Tab.1.left/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146123" />
+    <state width="1878" height="334" key="GridCell.Tab.1.left/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970891908" />
+    <state width="1238" height="162" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1591707773564" />
+    <state width="1238" height="126" key="GridCell.Tab.1.right" timestamp="1591972146124">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1591699320499" />
+    <state width="1238" height="126" key="GridCell.Tab.1.right/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146124" />
+    <state width="1878" height="334" key="GridCell.Tab.1.right/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970891911" />
+    <state width="1238" height="162" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1591707773565" />
+    <state width="1238" height="126" key="GridCell.Tab.2.bottom" timestamp="1591972146126">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.2.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591699320518" />
+    <state width="1238" height="126" key="GridCell.Tab.2.bottom/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146126" />
+    <state width="1878" height="334" key="GridCell.Tab.2.bottom/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970891914" />
+    <state width="1238" height="246" key="GridCell.Tab.2.bottom/0.23.1280.777@0.23.1280.777" timestamp="1591699513422" />
+    <state width="1238" height="126" key="GridCell.Tab.2.center" timestamp="1591972146125">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.2.center/0.0.1280.800@0.0.1280.800" timestamp="1591699320513" />
+    <state width="1238" height="126" key="GridCell.Tab.2.center/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146125" />
+    <state width="1878" height="334" key="GridCell.Tab.2.center/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970891913" />
+    <state width="1238" height="246" key="GridCell.Tab.2.center/0.23.1280.777@0.23.1280.777" timestamp="1591699513421" />
+    <state width="1238" height="126" key="GridCell.Tab.2.left" timestamp="1591972146124">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.2.left/0.0.1280.800@0.0.1280.800" timestamp="1591699320504" />
+    <state width="1238" height="126" key="GridCell.Tab.2.left/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146124" />
+    <state width="1878" height="334" key="GridCell.Tab.2.left/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970891912" />
+    <state width="1238" height="246" key="GridCell.Tab.2.left/0.23.1280.777@0.23.1280.777" timestamp="1591699513421" />
+    <state width="1238" height="126" key="GridCell.Tab.2.right" timestamp="1591972146125">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="246" key="GridCell.Tab.2.right/0.0.1280.800@0.0.1280.800" timestamp="1591699320514" />
+    <state width="1238" height="126" key="GridCell.Tab.2.right/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591972146125" />
+    <state width="1878" height="334" key="GridCell.Tab.2.right/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591970891913" />
+    <state width="1238" height="246" key="GridCell.Tab.2.right/0.23.1280.777@0.23.1280.777" timestamp="1591699513422" />
+    <state x="141" y="50" key="SettingsEditor" timestamp="1591868788089">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="141" y="50" key="SettingsEditor/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591868788089" />
+    <state x="1640" y="197" key="Vcs.Push.Dialog.v2" timestamp="1591971244080">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591720766476" />
+    <state x="1640" y="197" key="Vcs.Push.Dialog.v2/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591971244080" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1591699560236" />
+    <state x="428" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591699549955">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="428" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1591699549955" />
+    <state x="181" y="147" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591249239895">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="181" y="147" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591249239895" />
+    <state x="1783" y="273" key="git4idea.merge.GitPullDialog" timestamp="1591971232916">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="335" y="207" key="git4idea.merge.GitPullDialog/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591262802882" />
+    <state x="1783" y="273" key="git4idea.merge.GitPullDialog/0.23.1280.777/1280.23.1920.1057@1280.23.1920.1057" timestamp="1591971232916" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1591867750968">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591867750968" />
+  </component>
+</project>
