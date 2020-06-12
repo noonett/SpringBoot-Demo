@@ -38,8 +38,8 @@ Demo of using Logger-back structure to log the running time message. We can use 
 Demo of user register. The login function include homepage of register, dealing with login information and activation. In the activation part, we apply mailSender to send email to users to activate their account. The mailSender help us create MimeMessage object and send email. We use MimeMessageHelper to config email.
 
 ### 7. Interceptor demo
-1. 验证码：实现了用户登陆时图像验证码的生成和验证。重点是验证码图像的生成。
-2. 会话管理：用户登陆凭证Cookie的创建、保存和验证。通过过滤器可以通过用户发来的Cookie获得用户信息，从而保持会话。
-3. 图像文件上传：用户可以更换他们的头像，这里涉及到IO，图片流的知识
+1. 验证码：实现了用户登陆时图像验证码的生成和验证。重点是验证码图像的生成，这里用到了kaptcha工具，通过配置类配置验证码的信息，将验证码保存在session，同时将图片的二进制流传入response返回给页面。
+2. 会话管理：用户登陆凭证Cookie的创建、保存和验证。通过过滤器可以通过用户发来的Cookie获得用户信息，如果Cookie合法，则将用户信息保存入ThreadLocal，从而保持会话并保证并发一致性。
+3. 图像文件上传：用户可以更换他们的头像，这里用MultipartFile实现图片的传递，将图片保存在本地，然后通过web访问的方式获取到图片内容。
 4. 过滤器：还通过了过滤器实现了未登录用户不能访问部分页面，与上面的过滤器的实现方式不同，这里通过反射和注解来实现过滤器对部分页面过滤的功能（实际上是过滤了所有的页面，通过判断是否带有注解来决定是否要过滤）。
 5. 修改密码和忘记密码的功能。
